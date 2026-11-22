@@ -24,7 +24,7 @@ export const botConfig = {
     activities: [
       {
         name: "made by hezu", // required by Discord API, not shown in the client
-        state: "made by hezu",     // this is what people actually see
+        state: "500 users in hezu's | discord.gg/HEZU",     // this is what people actually see
         type: 3,               // Custom
       },
     ],
