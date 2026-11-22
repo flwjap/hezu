@@ -25,7 +25,7 @@ export const botConfig = {
       {
         name: " ", // required by Discord API, not shown in the client
         state: "MADE BY HEZU",     // this is what people actually see
-        type: 3,               // Custom
+        type: 0,               // Custom
       },
     ],
   },
@@ -93,7 +93,7 @@ export const botConfig = {
   embeds: {
     colors: {
       // Main brand colors.
-      primary: "#FFFFFF",
+      primary: "#000000",
       secondary: "#000000",
 
       // Standard status colors for success/error/warning/info messages.
